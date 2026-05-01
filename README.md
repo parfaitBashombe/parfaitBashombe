@@ -89,14 +89,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parfaitBashombe&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## Current Focus
 
 * Advanced Next.js architecture
