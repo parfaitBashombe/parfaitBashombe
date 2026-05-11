@@ -1,7 +1,7 @@
 # Hi, I'm **Parfait Bashombe**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+Specialist;TypeScript+%7C+React+%7C+Next.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+Specialist;TypeScript+%7C+React+%7[...]
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Full stack developer specialized in building modern, fast, and scalable web applications with expertise in front-end development, backend systems, and blockchain technology.
+Full stack developer specialized in building modern, fast, and scalable web applications with expertise in front-end development and backend systems.
 
 ---
 
@@ -27,8 +27,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ### Front-End
@@ -71,13 +69,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### Web3 & Blockchain
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-</p>
-
 ### Authentication & Security
 
 <p>
@@ -89,6 +80,7 @@ Full stack developer specialized in building modern, fast, and scalable web appl
 
 <p>
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Joi-15DEB8?style=for-the-badge" />
 </p>
 
 ### Tools & Development
@@ -109,12 +101,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
   <img src="https://img.shields.io/badge/Shopify-96BE00?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
-### AI & ML
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge" />
-</p>
-
 ---
 
 ## What I Do
@@ -124,7 +110,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
 - Design scalable backend architectures
 - Optimize performance and user experience
 - Create e-commerce platforms and applications
-- Develop blockchain-based applications
 - Build mobile applications with Flutter
 - Implement secure authentication and authorization systems
 
@@ -134,7 +119,6 @@ Full stack developer specialized in building modern, fast, and scalable web appl
 
 - Advanced Next.js architecture and performance optimization
 - Scalable backend system design
-- Web3 and smart contract development
 - Full stack application development with modern tooling
 - Building production-ready applications with best practices
 
