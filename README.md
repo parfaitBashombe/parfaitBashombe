@@ -1,11 +1,11 @@
 # Hi, I'm **Parfait Bashombe**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+Specialist;TypeScript+%7C+React+%7C+PHP;Backend+%7C+SQL+%7C+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+Specialist;TypeScript+%7C+React+%7C+PHP" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
