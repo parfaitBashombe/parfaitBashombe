@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- Replaced broken streak badge with GitHub stats and a contribution chart -->
-  <img src="https://github-readme-stats.vercel.app/api?username=parfaitBashombe&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://ghchart.rshah.org/parfaitBashombe" alt="GitHub contributions chart" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
