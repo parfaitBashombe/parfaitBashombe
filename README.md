@@ -1,7 +1,7 @@
 # Hi, I'm Parfait Bashombe
 
 <p align="center">
-  Full-Stack Developer | Frontend & Backend
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+Specialist;TypeScript+%7C+React+%7C+Next.js;Building+Modern+Web+Apps" />
 </p>
 
 <p align="center">
