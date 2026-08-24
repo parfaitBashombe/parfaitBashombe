@@ -1,5 +1,8 @@
 # Hi, I'm Parfait Bashombe
-Full-Stack Developer | Frontend & Backend
+
+<p align="center">
+  Full-Stack Developer | Frontend & Backend
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -21,7 +24,16 @@ I specialize in frontend development with **Next.js, React.js, and Flutter**, as
 
 ### My Skills
 
-**Languages:** JavaScript, TypeScript, PHP, Java, Dart, HTML5, CSS3, SQL
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -29,4 +41,14 @@ I specialize in frontend development with **Next.js, React.js, and Flutter**, as
 
 Feel free to get in touch with me through the following channels:
 
-[Gmail](mailto:parfaitbashombe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/parfait-bashombe-7b3866316/) | [X](https://x.com/mb_parfait)
+<p align="center">
+  <a href="mailto:parfaitbashombe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/parfait-bashombe-7b3866316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mb_parfait">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
