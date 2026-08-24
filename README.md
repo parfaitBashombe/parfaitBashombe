@@ -16,6 +16,8 @@ I'm currently working on dotclash.com
 I'm currently learning advanced system design
 Ask me about Next.js, React, Flutter, Node.js, and Java
 
+With experience in building full-stack applications from concept to deployment, I focus on creating modern, scalable web applications with best practices.
+
 ---
 
 ## Tech Stack & Skills
@@ -34,6 +36,15 @@ I specialize in frontend development with **Next.js, React.js, and Flutter**, as
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+### What I Do
+
+- Build modern, responsive, and accessible UIs
+- Develop full stack applications from concept to deployment
+- Design scalable backend architectures
+- Create e-commerce platforms and applications
+- Build mobile applications with Flutter
+- Implement secure authentication and authorization systems
 
 ---
 
