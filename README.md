@@ -12,13 +12,8 @@
 
 ## About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Working_on-dotclash.com-1d4ed8?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Learning-Advanced_AI-0ea5e9?style=for-the-badge" />
-</p>
+- Currently working on [Dot Clash](https://dotclash.com)
+- Learning advanced system design
 
 With experience in building full-stack applications from concept to deployment, I focus on creating modern, scalable web applications with best practices.
 
