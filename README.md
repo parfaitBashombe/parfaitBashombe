@@ -12,9 +12,11 @@
 
 ## About Me
 
-I'm currently working on dotclash.com
-I'm currently learning advanced system design
-Ask me about Next.js, React, Flutter, Node.js, and Java
+<p>
+  <img src="https://img.shields.io/badge/Working_on-dotclash.com-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Advanced_System_Design-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ask_me_about-Next.js_React_Flutter_Node.js_Java-06b6d4?style=for-the-badge" />
+</p>
 
 With experience in building full-stack applications from concept to deployment, I focus on creating modern, scalable web applications with best practices.
 
