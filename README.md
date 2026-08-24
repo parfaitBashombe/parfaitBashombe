@@ -15,7 +15,6 @@
 <p>
   <img src="https://img.shields.io/badge/Working_on-dotclash.com-1d4ed8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Advanced_System_Design-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ask_me_about-Next.js_React_Flutter_Node.js_Java-06b6d4?style=for-the-badge" />
 </p>
 
 With experience in building full-stack applications from concept to deployment, I focus on creating modern, scalable web applications with best practices.
@@ -26,7 +25,7 @@ With experience in building full-stack applications from concept to deployment, 
 
 I specialize in frontend development with **Next.js, React.js, and Flutter**, as well as backend development using **Node.js, PHP, and Java**.
 
-### My Skills
+### Languages & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,6 +36,23 @@ I specialize in frontend development with **Next.js, React.js, and Flutter**, as
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### Ask me about
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### What I Do
