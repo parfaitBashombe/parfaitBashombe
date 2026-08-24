@@ -25,8 +25,6 @@ With experience in building full-stack applications from concept to deployment, 
 
 I specialize in frontend development with **Next.js, React.js, and Flutter**, as well as backend development using **Node.js, PHP, and Java**.
 
-### Languages & Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -70,4 +68,10 @@ Feel free to get in touch with me through the following channels:
   <a href="https://x.com/mb_parfait">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=120&section=footer" />
 </p>
