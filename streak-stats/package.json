@@ -1,0 +1,12 @@
+{
+  "name": "streak-stats",
+  "version": "1.0.0",
+  "description": "Self-hosted GitHub streak stats with 2-day tolerance",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
