@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://parfait-github-streak.vercel.app/?user=parfaitBashombe&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://parfait-github-streak.vercel.app/?user=parfaitBashombe&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 ---

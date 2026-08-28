@@ -247,7 +247,7 @@ const handler = async (req, res) => {
 
     res.writeHead(200, {
       "Content-Type": "image/svg+xml",
-      "Cache-Control": "public, max-age=3600",
+      "Cache-Control": "public, max-age=300, stale-while-revalidate=60",
     });
     res.end(svg);
   } catch (err) {
