@@ -20,10 +20,10 @@ const formatShortDate = (dateStr) => {
 };
 
 const THEMES = {
-  default:    { bg: "#ffffff", border: "#e4e2e2", value: "#333333", label: "#777777", accent: "#ffa657" },
-  tokyonight: { bg: "#1a1b27", border: "#414868", value: "#38bdae", label: "#a9b1d6", accent: "#ff9e64" },
-  dark:       { bg: "#0d1117", border: "#30363d", value: "#c9d1d9", label: "#8b949e", accent: "#58a6ff" },
-  radical:    { bg: "#141321", border: "#fe428e", value: "#a9fef7", label: "#f8d847", accent: "#fe428e" },
+  default:    { bg: "#ffffff", border: "#e4e2e2", value: "#333333",  label: "#777777", accent: "#ffa657", circleAccent: "#ffa657" },
+  tokyonight: { bg: "#1a1b27", border: "#414868", value: "#38bdae",  label: "#a9b1d6", accent: "#ff9e64", circleAccent: "#ff9e64" },
+  dark:       { bg: "#0d1117", border: "#30363d", value: "#58a6ff",  label: "#8b949e", accent: "#58a6ff", circleAccent: "#ff9e64" },
+  radical:    { bg: "#141321", border: "#fe428e", value: "#a9fef7",  label: "#f8d847", accent: "#fe428e", circleAccent: "#fe428e" },
 };
 
 const graphql = async (token, query, variables) => {
@@ -205,11 +205,11 @@ const renderSVG = ({ currentStreak, longestStreak, longestStart, longestEnd, tot
   </g>
 
   <g transform="translate(247.5,0)">
-    <text x="0" y="52" text-anchor="middle" font-size="22">🔥</text>
-    <circle cx="0" cy="90" r="38" fill="${t.accent}" fill-opacity="0.08" stroke="${t.accent}" stroke-width="2.5" />
-    <text x="0" y="99" text-anchor="middle" class="value">${currentStreak}</text>
-    <text x="0" y="146" text-anchor="middle" class="label">Current Streak</text>
-    <text x="0" y="163" text-anchor="middle" class="sub">${streakDay}</text>
+    <text x="0" y="54" text-anchor="middle" font-size="22">🔥</text>
+    <circle cx="0" cy="100" r="38" fill="${t.circleAccent}" fill-opacity="0.08" stroke="${t.circleAccent}" stroke-width="2.5" />
+    <text x="0" y="109" text-anchor="middle" class="value">${currentStreak}</text>
+    <text x="0" y="154" text-anchor="middle" class="label">Current Streak</text>
+    <text x="0" y="170" text-anchor="middle" class="sub">${streakDay}</text>
   </g>
 
   <g transform="translate(412.5,0)">
