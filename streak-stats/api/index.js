@@ -20,10 +20,10 @@ const formatShortDate = (dateStr) => {
 };
 
 const THEMES = {
-  default:    { bg: "#ffffff", border: "#e4e2e2", value: "#333333",  label: "#777777", accent: "#ffa657", circleAccent: "#ffa657" },
-  tokyonight: { bg: "#1a1b27", border: "#414868", value: "#38bdae",  label: "#a9b1d6", accent: "#ff9e64", circleAccent: "#ff9e64" },
-  dark:       { bg: "#0d1117", border: "#30363d", value: "#58a6ff",  label: "#8b949e", accent: "#58a6ff", circleAccent: "#ff9e64" },
-  radical:    { bg: "#141321", border: "#fe428e", value: "#a9fef7",  label: "#f8d847", accent: "#fe428e", circleAccent: "#fe428e" },
+  default:    { bg: "#ffffff", border: "#e4e2e2", value: "#333333", label: "#777777", accent: "#ffa657", circleAccent: "#ffa657" },
+  tokyonight: { bg: "#1a1b27", border: "#414868", value: "#38bdae", label: "#a9b1d6", accent: "#ff9e64", circleAccent: "#ff9e64" },
+  dark:       { bg: "#161b22", border: "#30363d", value: "#58a6ff", label: "#8b949e", accent: "#58a6ff", circleAccent: "#ff9e64" },
+  radical:    { bg: "#141321", border: "#fe428e", value: "#a9fef7", label: "#f8d847", accent: "#fe428e", circleAccent: "#fe428e" },
 };
 
 const graphql = async (token, query, variables) => {
@@ -184,38 +184,39 @@ const renderSVG = ({ currentStreak, longestStreak, longestStart, longestEnd, tot
   const longestRange = longestStart ? `${formatDate(longestStart)} – ${formatDate(longestEnd)}` : "—";
   const streakDay = streakEnd ? formatShortDate(streakEnd) : "—";
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210">
   <style>
     text { font-family: 'Segoe UI', Ubuntu, sans-serif; }
-    .label { font-size: 12px; fill: ${t.label}; }
-    .value { font-size: 22px; font-weight: 700; fill: ${t.value}; }
-    .sub   { font-size: 11px; fill: ${t.accent}; }
+    .label { font-size: 14px; fill: ${t.label}; }
+    .value { font-size: 26px; font-weight: 700; fill: ${t.value}; }
+    .sub   { font-size: 12px; fill: ${t.accent}; }
   </style>
 
-  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5"
+  <rect x="0.5" y="0.5" width="494" height="209" rx="4.5"
     fill="${t.bg}" stroke="${t.border}" stroke-opacity="${borderOpacity}" />
 
-  <line x1="165" y1="28" x2="165" y2="170" stroke="${t.border}" stroke-opacity="0.5" />
-  <line x1="330" y1="28" x2="330" y2="170" stroke="${t.border}" stroke-opacity="0.5" />
+  <line x1="165" y1="28" x2="165" y2="185" stroke="${t.border}" stroke-opacity="0.5" />
+  <line x1="330" y1="28" x2="330" y2="185" stroke="${t.border}" stroke-opacity="0.5" />
 
   <g transform="translate(82.5,0)">
-    <text x="0" y="65"  text-anchor="middle" class="label">Total Contributions</text>
-    <text x="0" y="100" text-anchor="middle" class="value">${totalContributions}</text>
-    <text x="0" y="120" text-anchor="middle" class="sub">${totalRange}</text>
+    <text x="0" y="68"  text-anchor="middle" class="label">Total Contributions</text>
+    <text x="0" y="106" text-anchor="middle" class="value">${totalContributions}</text>
+    <text x="0" y="128" text-anchor="middle" class="sub">${totalRange}</text>
   </g>
 
   <g transform="translate(247.5,0)">
-    <text x="0" y="54" text-anchor="middle" font-size="22">🔥</text>
-    <circle cx="0" cy="100" r="38" fill="${t.circleAccent}" fill-opacity="0.08" stroke="${t.circleAccent}" stroke-width="2.5" />
-    <text x="0" y="109" text-anchor="middle" class="value">${currentStreak}</text>
-    <text x="0" y="154" text-anchor="middle" class="label">Current Streak</text>
-    <text x="0" y="170" text-anchor="middle" class="sub">${streakDay}</text>
+    <path d="M0-14 c-1-6 4-10 4-16 2 4 0 8-2 10 4-2 7-8 6-14 3 4 4 10 2 16 2-2 3-5 3-8 2 6 0 12-4 16-6 6-16 4-16-4 0-6 4-10 7-14z"
+      transform="translate(0,52) scale(1.4)" fill="#ff9e64" />
+    <circle cx="0" cy="108" r="42" fill="${t.circleAccent}" fill-opacity="0.08" stroke="${t.circleAccent}" stroke-width="2.5" />
+    <text x="0" y="118" text-anchor="middle" class="value">${currentStreak}</text>
+    <text x="0" y="164" text-anchor="middle" class="label">Current Streak</text>
+    <text x="0" y="182" text-anchor="middle" class="sub">${streakDay}</text>
   </g>
 
   <g transform="translate(412.5,0)">
-    <text x="0" y="65"  text-anchor="middle" class="label">Longest Streak</text>
-    <text x="0" y="100" text-anchor="middle" class="value">${longestStreak}</text>
-    <text x="0" y="118" text-anchor="middle" class="sub">${longestRange}</text>
+    <text x="0" y="68"  text-anchor="middle" class="label">Longest Streak</text>
+    <text x="0" y="106" text-anchor="middle" class="value">${longestStreak}</text>
+    <text x="0" y="126" text-anchor="middle" class="sub">${longestRange}</text>
   </g>
 </svg>`;
 };
