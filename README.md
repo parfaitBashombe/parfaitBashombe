@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://YOUR_VERCEL_URL/?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
