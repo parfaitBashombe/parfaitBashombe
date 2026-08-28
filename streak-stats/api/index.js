@@ -205,8 +205,7 @@ const renderSVG = ({ currentStreak, longestStreak, longestStart, longestEnd, tot
   </g>
 
   <g transform="translate(247.5,0)">
-    <path d="M0-14 c-1-6 4-10 4-16 2 4 0 8-2 10 4-2 7-8 6-14 3 4 4 10 2 16 2-2 3-5 3-8 2 6 0 12-4 16-6 6-16 4-16-4 0-6 4-10 7-14z"
-      transform="translate(0,52) scale(1.4)" fill="#ff9e64" />
+    <text x="0" y="54" text-anchor="middle" font-size="22">🔥</text>
     <circle cx="0" cy="108" r="42" fill="${t.circleAccent}" fill-opacity="0.08" stroke="${t.circleAccent}" stroke-width="2.5" />
     <text x="0" y="118" text-anchor="middle" class="value">${currentStreak}</text>
     <text x="0" y="164" text-anchor="middle" class="label">Current Streak</text>
