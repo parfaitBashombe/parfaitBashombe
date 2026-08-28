@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://YOUR_VERCEL_URL/?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://parfait-github-streak.vercel.app/?user=parfaitBashombe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
